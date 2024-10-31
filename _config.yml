@@ -1,8 +1,32 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Tidy Tab Groups
+description: Tired of tab clutter? Effortlessly group, collapse, and organize your tabs with Tidy Tab Groups.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://TidyTabGroups.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  # Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: dark
+
+logo: "/assets/images/logo.png"
+
+aux_links:
+  Chrome Web Store:
+    - https://chromewebstore.google.com/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf
+  GitHub:
+    - https://GitHub.com/TidyTabGroups/TidyTabGroups
+  Discord Server:
+    - https://discord.gg/aBdAfNfGEv
+
+aux_links_new_tab: true
+
+# Footer content
+markup / liquid-based content.
+footer_content: "Copyright &copy; 2024 Moe Bazzi & Elouan Grimm. [GitHub](https://github.com/TidyTabGroups)
+
+nav_external_links:
+  - title: View on GitHub
+    url: https://GitHub.com/TidyTabGroups/TidyTabGroups
+    hide_icon: false
+    opens_in_new_tab: true

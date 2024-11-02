@@ -19,3 +19,5 @@ nav_order: 1
 
 **Whether you're managing multiple projects or just want a cleaner browser, Tidy Tab Groups is the effortless productivity boost for your browser. Try it out today, it's free! 💯**
 
+<script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2024/10/28/15/20241028152445-GJRRV5W1.js"></script>

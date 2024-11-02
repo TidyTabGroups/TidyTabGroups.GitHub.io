@@ -6,13 +6,11 @@ nav_order: 2
 
 <h1 align="center">How To Install ⬇️📥</h1>
 
-<p align="center">
 <a href="https://chromewebstore.google.com/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf">
-<img style="height:100px" src="https://user-images.githubusercontent.com/53124886/111952712-34f12300-8aee-11eb-9fdd-ad579a1eb235.png"></img>
+<img style="height:100px" src="https://user-images.githubusercontent.com/53124886/111952712-34f12300-8aee-11eb-9fdd-ad579a1eb235.png">
 </a>
-</p>
 
-[Install from GitHub](https://github.com/TidyTabGroups/TidyTabGroups){: .btn }
+[Install from GitHub](https://github.com/TidyTabGroups/TidyTabGroups/releases){: .btn }
 
 To install Tidy Tab Groups, you have two options:
 

@@ -9,8 +9,7 @@ nav_order: 1
 
 <p align="center">
 <a href="https://chromewebstore.google.com/detail/tidy-tab-groups/fohgbkobjdckaapjimleemkolchkmebf">
-<img style="height:100px" src="https://user-images.githubusercontent.com/53124886/111952712-34f12300-8aee-11eb-9fdd-ad579a1eb235.png"></img>
-</a>
+<img style="height:100px" src="https://user-images.githubusercontent.com/53124886/111952712-34f12300-8aee-11eb-9fdd-ad579a1eb235.png">
 </p>
 
 <img alt="Chrome Web Store Version" src="https://img.shields.io/chrome-web-store/v/fohgbkobjdckaapjimleemkolchkmebf?style=flat"> <img alt="Chrome Web Store Last Updated" src="https://img.shields.io/chrome-web-store/last-updated/fohgbkobjdckaapjimleemkolchkmebf?style=flat">

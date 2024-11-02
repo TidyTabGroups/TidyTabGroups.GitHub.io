@@ -22,8 +22,8 @@ aux_links:
 aux_links_new_tab: true
 
 # Footer content
-markup / liquid-based content.
-footer_content: "Copyright &copy; 2024 Moe Bazzi & Elouan Grimm. [GitHub](https://github.com/TidyTabGroups)
+markup / liquid-based content:
+  footer_content: "Copyright &copy; 2024 Moe Bazzi & Elouan Grimm. [GitHub](https://github.com/TidyTabGroups)
 
 nav_external_links:
   - title: View on GitHub
